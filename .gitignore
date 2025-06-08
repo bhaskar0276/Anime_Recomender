@@ -80,6 +80,9 @@ target/
 .ipynb_checkpoints
 
 # IPython
+notebooks/weights.weights.h5
+
+# IPython
 profile_default/
 ipython_config.py
 
